@@ -1,3 +1,7 @@
+👋hi there, my name is blkcor,studing for full stack.
+Want to build something cool, but have no idea now
+
+<hr/>
 ![](https://github-readme-stats.vercel.app/api?username=blkcor)
 
 <!--START_SECTION:waka-->
