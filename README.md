@@ -1,9 +1,13 @@
 👋hi there, my name is blkcor,studing for full stack.
-Want to build something cool, but have no idea now
+Interested in contributing to open source✌️
 
 <hr/>
 
 ![](https://github-readme-stats.vercel.app/api?username=blkcor)
+<a href="https://github.com/blkcor/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blkcor&hide=jupyter%20notebook,shaderlab,tex,c%23&langs_count=9" />
+</a>
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-739%20hrs%2050%20mins-blue)
