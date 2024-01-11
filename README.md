@@ -39,18 +39,16 @@ Sunday                   108 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               23 mins             ████████████████████████░   94.23 % 
-YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sdkjs                    24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -66,7 +64,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2024 20:12:10 UTC
+ Last Updated on 11/01/2024 20:12:01 UTC
 <!--END_SECTION:waka-->
 
 
