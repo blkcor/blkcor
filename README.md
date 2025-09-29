@@ -10,20 +10,22 @@ Interested in contributing to open source✌️
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C531%20hrs%2056%20mins-blue)
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
 Vue                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 Rust                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
 
 
- Last Updated on 28/09/2025 20:15:08 UTC
+ Last Updated on 29/09/2025 20:15:35 UTC
 <!--END_SECTION:waka-->
 
 
