@@ -10,6 +10,8 @@ Interested in contributing to open source✌️
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C532%20hrs%209%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -64,7 +66,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2025 20:17:10 UTC
+ Last Updated on 16/10/2025 20:16:48 UTC
 <!--END_SECTION:waka-->
 
 
