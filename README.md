@@ -10,8 +10,6 @@ Interested in contributing to open source✌️
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C634%20hrs%2055%20mins-blue?style=flat)
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -25,7 +23,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 21:07:45 UTC
+ Last Updated on 15/05/2026 20:57:11 UTC
 <!--END_SECTION:waka-->
 
 
