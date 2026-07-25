@@ -10,6 +10,47 @@ Interested in contributing to open source✌️
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C822%20hrs%2058%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                849 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+🌆 Daytime                4152 commits        ███████████░░░░░░░░░░░░░░   43.52 % 
+🌃 Evening                3886 commits        ██████████░░░░░░░░░░░░░░░   40.73 % 
+🌙 Night                  654 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   727 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Tuesday                  715 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Wednesday                1638 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Thursday                 979 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Friday                   1851 commits        █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Saturday                 1716 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Sunday                   1915 commits        █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -23,7 +64,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 20:59:53 UTC
+ Last Updated on 25/07/2026 20:45:41 UTC
 <!--END_SECTION:waka-->
 
 
