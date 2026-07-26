@@ -10,7 +10,7 @@ Interested in contributing to open source✌️
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C822%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C823%20hrs%2037%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -39,16 +39,24 @@ Sunday                   1915 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       1 hr 57 mins        █████████████████░░░░░░░░   67.14 % 
+Makefile                 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+SQL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   2 hrs 15 mins       ███████████████████░░░░░░   77.63 % 
+Claude Code              35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+tinyIM                   2 hrs 32 mins       ██████████████████████░░░   87.29 % 
+blkcor-bt                16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+coragent                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -64,7 +72,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 20:45:41 UTC
+ Last Updated on 26/07/2026 20:55:16 UTC
 <!--END_SECTION:waka-->
 
 
