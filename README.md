@@ -10,7 +10,9 @@ Interested in contributing to open source✌️
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C823%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C798%20hrs%2031%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-211%20hrs%2029%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -59,6 +61,29 @@ coragent                 5 mins              █░░░░░░░░░░�
 Mac                      2 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 39 mins (56.93%)
+
+✍️ 636 lines written by AI, 2,586 lines written by hand (19.74% AI-written)
+
+🔤 1,827,730 Input Tokens, 31,119 Output Tokens
+
+💵 $1.49 Estimated AI Cost This Week
+
+🧠 12 AI Sessions, 45 AI Prompts
+
+Opencode-Cli             315 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 19.74% of written lines came from AI
+📄 Detailed Prompter — average 1,079 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 78.96% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -72,7 +97,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 20:55:16 UTC
+ Last Updated on 27/07/2026 21:07:57 UTC
 <!--END_SECTION:waka-->
 
 
