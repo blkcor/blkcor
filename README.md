@@ -10,10 +10,6 @@ Interested in contributing to open source✌️
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C798%20hrs%2031%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-211%20hrs%2029%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -81,7 +77,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 🧑‍💻 Mostly Hands-On — 19.74% of written lines came from AI
 📄 Detailed Prompter — average 1,079 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 78.96% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 78.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,7 +93,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 21:07:57 UTC
+ Last Updated on 28/07/2026 21:07:04 UTC
 <!--END_SECTION:waka-->
 
 
