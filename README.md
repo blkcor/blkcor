@@ -10,9 +10,9 @@ Interested in contributing to open source✌️
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C798%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C806%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-211%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%2037%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -41,46 +41,46 @@ Sunday                   1901 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       5 hrs 26 mins       ██████████████░░░░░░░░░░░   55.08 % 
-Markdown                 3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.98 % 
-Makefile                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Python                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-GitIgnore file           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Go                       7 hrs 52 mins       █████████████████░░░░░░░░   66.07 % 
+Markdown                 3 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.00 % 
+Python                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+GitIgnore file           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔥 Editors: 
-GoLand                   4 hrs 40 mins       ████████████░░░░░░░░░░░░░   47.40 % 
-VS Code                  3 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   37.27 % 
-Claude Code              1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+GoLand                   4 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   40.47 % 
+VS Code                  3 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   30.85 % 
+Claude Code              3 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   28.68 % 
 
 🐱‍💻 Projects: 
-coragent                 7 hrs 36 mins       ███████████████████░░░░░░   77.02 % 
-tinyIM                   2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+coragent                 11 hrs 55 mins      █████████████████████████   99.97 % 
+tinyIM                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      9 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 16 mins (83.74%)
+⏱ AI Coding Time: 10 hrs 33 mins (88.54%)
 
-✍️ 16,981 lines written by AI, 2,569 lines written by hand (86.86% AI-written)
+✍️ 17,487 lines written by AI, 13 lines written by hand (99.93% AI-written)
 
-🔤 332,044,489 Input Tokens, 1,596,352 Output Tokens
+🔤 369,286,629 Input Tokens, 1,716,536 Output Tokens
 
 💵 $905.26 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 133 AI Prompts
+🧠 26 AI Sessions, 133 AI Prompts
 
 GPT                      17,059 lines        █████████████████████████   100.00 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.86% of written lines came from AI
-📚 Verbose Prompter — average 9,456 characters per prompt
+🤖 AI-Driven — 99.93% of written lines came from AI
+📚 Verbose Prompter — average 9,463 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 12.82% of changed lines were hand-edited
+🚀 High AI Trust — 0.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,7 +96,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 20:46:34 UTC
+ Last Updated on 02/08/2026 20:49:00 UTC
 <!--END_SECTION:waka-->
 
 
