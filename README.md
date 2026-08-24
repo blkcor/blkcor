@@ -10,9 +10,9 @@ Interested in contributing to open source✌️
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C828%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C828%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-239%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-240%20hrs%207%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -41,48 +41,48 @@ Sunday                   1931 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 27 mins       ███████████████░░░░░░░░░░   58.28 % 
-Go                       1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-fish                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Markdown                 1 hr 57 mins        ███████████████████░░░░░░   74.72 % 
+Other                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+fish                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 Editors: 
-GoLand                   3 hrs 3 mins        ██████████████████░░░░░░░   72.72 % 
-VS Code                  58 mins             ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-Claude Code              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+GoLand                   2 hrs 18 mins       ██████████████████████░░░   88.17 % 
+Claude Code              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 🐱‍💻 Projects: 
-coragent                 2 hrs 6 mins        ████████████░░░░░░░░░░░░░   49.99 % 
-obsidian                 1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   33.57 % 
-gold-news-monitor        16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-learn-harness-engineering12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-ai                       11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+obsidian                 1 hr 24 mins        █████████████░░░░░░░░░░░░   53.76 % 
+coragent                 32 mins             █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+gold-news-monitor        16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+learn-harness-engineering12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+ai                       11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 
 💻 Operating System: 
-Mac                      4 hrs 12 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 59 mins (95.04%)
+⏱ AI Coding Time: 2 hrs 25 mins (92.06%)
 
-✍️ 1,295 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 954 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 9,315,792 Input Tokens, 1,309,784 Output Tokens
+🔤 846,965 Input Tokens, 142,603 Output Tokens
 
-💵 $87.45 Estimated AI Cost This Week
+💵 $44.25 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 29 AI Prompts
+🧠 14 AI Sessions, 20 AI Prompts
 
-Kimi                     933 lines           ██████████████████░░░░░░░   73.23 % 
-GPT                      341 lines           ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+Kimi                     933 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 9,441 characters per prompt
+📚 Verbose Prompter — average 4,274 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -100,7 +100,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 20:18:02 UTC
+ Last Updated on 24/08/2026 20:25:30 UTC
 <!--END_SECTION:waka-->
 
 
