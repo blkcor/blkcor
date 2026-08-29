@@ -41,48 +41,47 @@ Sunday                   1931 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 57 mins        ███████████████████░░░░░░   74.72 % 
-Other                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-fish                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+fish                     12 mins             ██████████░░░░░░░░░░░░░░░   38.20 % 
+Markdown                 10 mins             ████████░░░░░░░░░░░░░░░░░   31.36 % 
+Other                    4 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+JSON                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🔥 Editors: 
-GoLand                   2 hrs 18 mins       ██████████████████████░░░   88.17 % 
-Claude Code              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+GoLand                   22 mins             █████████████████░░░░░░░░   69.25 % 
+Claude Code              9 mins              ████████░░░░░░░░░░░░░░░░░   30.45 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🐱‍💻 Projects: 
-obsidian                 1 hr 24 mins        █████████████░░░░░░░░░░░░   53.76 % 
-coragent                 32 mins             █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-gold-news-monitor        16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-learn-harness-engineering12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-ai                       11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+learn-harness-engineering12 mins             ██████████░░░░░░░░░░░░░░░   38.39 % 
+ai                       11 mins             █████████░░░░░░░░░░░░░░░░   36.43 % 
+obsidian                 8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+coragent                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Mac                      2 hrs 37 mins       █████████████████████████   100.00 % 
+Mac                      32 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 25 mins (92.06%)
+⏱ AI Coding Time: 32 mins (100.0%)
 
-✍️ 954 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 73 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 846,965 Input Tokens, 142,603 Output Tokens
+🔤 132,602 Input Tokens, 31,992 Output Tokens
 
-💵 $44.25 Estimated AI Cost This Week
+💵 $4.66 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 20 AI Prompts
+🧠 7 AI Sessions, 8 AI Prompts
 
-Kimi                     933 lines           █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Kimi                     52 lines            █████████████████████████   100.00 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,274 characters per prompt
+📚 Verbose Prompter — average 2,530 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -100,7 +99,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 02:42:04 UTC
+ Last Updated on 29/08/2026 22:14:08 UTC
 <!--END_SECTION:waka-->
 
 
