@@ -41,49 +41,22 @@ Sunday                   1931 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-fish                     12 mins             ██████████░░░░░░░░░░░░░░░   38.20 % 
-Markdown                 10 mins             ████████░░░░░░░░░░░░░░░░░   31.36 % 
-Other                    4 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-JSON                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-GoLand                   22 mins             █████████████████░░░░░░░░   69.25 % 
-Claude Code              9 mins              ████████░░░░░░░░░░░░░░░░░   30.45 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-learn-harness-engineering12 mins             ██████████░░░░░░░░░░░░░░░   38.39 % 
-ai                       11 mins             █████████░░░░░░░░░░░░░░░░   36.43 % 
-obsidian                 8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-coragent                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (100.0%)
-
-✍️ 73 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 132,602 Input Tokens, 31,992 Output Tokens
-
-💵 $4.66 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 8 AI Prompts
-
-Kimi                     52 lines            █████████████████████████   100.00 % 
-K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,530 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -99,7 +72,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 22:14:08 UTC
+ Last Updated on 30/08/2026 22:21:33 UTC
 <!--END_SECTION:waka-->
 
 
